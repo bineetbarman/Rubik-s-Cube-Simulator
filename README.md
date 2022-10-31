@@ -7,4 +7,4 @@ Python Interpreter
 # How to run
 Create a folder.
 Put the given python file in it. Run the program.
-Using the "Save" option (in the progrgam) will create a binary file in the current folder.
+Using the "Save" option (in the program) will create a binary file in the current folder.
