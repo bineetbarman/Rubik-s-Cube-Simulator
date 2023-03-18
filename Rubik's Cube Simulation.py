@@ -673,4 +673,12 @@ wn.bind('6',comb(rot,5))
 wn.bind('8',comb(rot,1))
 wn.bind('5',comb(rot,4))
 
+wn.bind('o',comb(orient,(1,-1)))
+wn.bind('p',comb(orient,(2,-1)))
+wn.bind('l',comb(orient,(3,-1)))
+
+wn.bind('O',comb(orient,(1,1)))
+wn.bind('P',comb(orient,(2,1)))
+wn.bind('L',comb(orient,(3,1)))
+
 wn.mainloop()
