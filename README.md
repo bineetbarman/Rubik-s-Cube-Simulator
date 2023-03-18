@@ -1,8 +1,11 @@
 # Rubik's Cube Simulator
 A 3-dimensional Rubik's Cube Simulator based on isometric projection 
 
+# Background
+This project was made for "Computer Science (New)" course in class 12 under CBSE. Minimal adjustments have been made to it in the present version.
+
 # Software requirements
-Python Interpreter
+Python Interpreter with tkinter module (inbuilt in the official Python Interpreter, IDLE)
 
 # How to run
 Create a folder.
