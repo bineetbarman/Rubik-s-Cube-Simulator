@@ -1,4 +1,4 @@
-# Rubik-s-Cube-Simulator
+# Rubik's-Cube-Simulator
 A 3-dimensional Rubik's Cube Simulator based on isometric projection 
 
 # Software requirements
