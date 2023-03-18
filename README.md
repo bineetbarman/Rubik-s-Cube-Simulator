@@ -26,7 +26,7 @@ Using the "Save" option (in the program) will create a binary file in the curren
 |m|Equatorial (Clockwise from Up Face)|
 |b|Slice (Clockwise from Front Face)|
 |o|Whole cube rotated as Right Face Clockwise|
-|u|Whole cube rotated as Up Face Clockwise|
+|p|Whole cube rotated as Up Face Clockwise|
 |l|Whole cube rotated as Front Face Clockwise|
 |8|Look up|
 |5|Look down|
